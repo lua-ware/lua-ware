@@ -1,7 +1,7 @@
 Hello, I am Luaware, a coder with knowledge of C#, Lua, HTML and CSS.
 
 # My Projects
-- Luaware V2: https://luaware.000webhostapp.com
+- Luaware V2: https://lua-ware.000webhostapp.com
 - Bloxcharms (Discontinued)
 - Frosthub (Discontinued)
 
